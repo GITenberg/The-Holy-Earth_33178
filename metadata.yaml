@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3089
     wikipedia: http://en.wikipedia.org/wiki/Liberty_Hyde_Bailey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33178#The-Holy-Earth
 gutenberg_issued: '2010-07-15'
 gutenberg_type: Text
 identifiers:
