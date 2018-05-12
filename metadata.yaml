@@ -1,0 +1,32 @@
+_repo: The-Holy-Earth_33178
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bailey, L. H. (Liberty Hyde)
+    alias: Bailey, Liberty Hyde
+    birthdate: 1858
+    deathdate: 1954
+    gutenberg_agent_id: '3089'
+    url: http://www.gutenberg.org/2009/agents/3089
+    wikipedia: http://en.wikipedia.org/wiki/Liberty_Hyde_Bailey
+description: ''
+gutenberg_issued: '2010-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33178'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural resources'
+- !lcsh 'Conservation of natural resources'
+- !lcsh 'Earth (Planet)'
+- !lcsh 'Nature'
+- !lcc 'S'
+- !lcsh 'Country life'
+title: The Holy Earth
+url: http://www.gutenberg.org/ebooks/33178
